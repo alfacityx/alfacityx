@@ -16,16 +16,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- JavaScript Icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border: none; outline: none;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/js.svg" alt="javascript" width="40" height="40" style="border: none; outline: none;"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <!-- React Icon -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border: none; outline: none;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="react" width="40" height="40" style="border: none; outline: none;"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <!-- React Native Icon -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="border: none; outline: none;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="reactnative" width="40" height="40" style="border: none; outline: none;"/>
   </a>
 </p>
+
 
 
 
