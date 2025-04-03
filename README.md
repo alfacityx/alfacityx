@@ -21,9 +21,7 @@
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <!-- C# Icon -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/csharp/512BD4" alt="C#" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C" /></a>
   <!-- .NET Icon -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40" height="40"/>
